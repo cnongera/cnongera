@@ -1,18 +1,12 @@
-👋 🇰🇪 Greetings from Kenya, East Afrika. I am Clement Ongera Nyangoya.  
-🎓 A Computer Science Graduand from UOPeople.  
-💻 🤖 🌾 Interests: CS, IT & Farming.  
+👋🇰🇪 Greetings from Kenya, East Africa. I am Clement Ongera Nyangoya.  
+🎓🌱 A Computer Science Graduand from UOPeople.  
+💻🤖🌾 Interests: CS, IT & Farming.  
 🤝 Open to collaborate on CS, IT & Farming.  
-Here's where You can find me: 
-  🔗 [LinkedIn](https://www.linkedin.com/in/cnongera/)  ␣␣
-  🐙 [GitHub](https://www.github.com/cnongera/)  ␣␣
-  📸 [Instagram](https://www.instagram.com/cnongera)  ␣␣
-  🐦 [X](https://www.x.com/cnongera)  ␣␣
-  📄 [about.me](http://about.me/cnongera)  ␣␣
-  🆔 [ORCID](https://orcid.org/0009-0005-8297-2966)  
-  
+Here's where you can find me:  
+🔗 <a href="https://www.linkedin.com/in/cnongera/">LinkedIn</a><br>
+🐙 <a href="https://www.github.com/cnongera">GitHub</a><br>
+🆔 <a href="https://orcid.org/0009-0005-8297-2966">ORCID</a><br>
+📸 <a href="https://www.instagram.com/cnongera">Instagram</a><br>
+🐦 <a href="https://www.x.com/cnongera">X</a><br>
+📄 <a href="http://about.me/cnongera">about.me</a><br>
 
-
-<!---
-cnongera/cnongera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
